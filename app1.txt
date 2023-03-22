@@ -2,3 +2,15 @@ app1
 
 main 수정
 side1 수정
+
+
+merge
+
+3way-merge
+
+fast forword merge
+
+rebase & fast forword merge
+
+squash and merge
+-- squash
