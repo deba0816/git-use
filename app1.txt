@@ -21,3 +21,4 @@ squash and merge
 
 2. fast forword merge
 update 1
+update 2
