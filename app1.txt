@@ -14,3 +14,5 @@ rebase & fast forword merge
 
 squash and merge
 -- squash
+
+https://github.com/deba0816/git-use.git
