@@ -18,3 +18,6 @@ squash and merge
 
 
 1. 3way merge
+
+2. fast forword merge
+update 1
